@@ -1,4 +1,3 @@
-```markdown
 # Thesis Permutation Analysis Engine
 
 This repository contains a suite of Python scripts designed to automate the complex algebraic bookkeeping required for numerical analysis thesis proofs. Specifically, it calculates, simplifies, and exports the error constants and permutation matrices for custom block methods and Linear Multistep Methods (LMMs) used in solving Ordinary Differential Equations (ODEs).
@@ -34,25 +33,3 @@ To run these scripts locally, ensure you have Python 3.11+ installed along with 
 Activate your virtual environment and run:
 ```bash
 pip install sympy pandas openpyxl
-
-```
-
-## 💻 Usage
-
-Run any of the modules directly from your terminal to view the mathematical outputs. For example, to test the higher-order cubic expansions:
-
-```bash
-python higher_order_tester.py
-
-```
-
-To generate the CSV and Excel files for publication:
-
-```bash
-python export_module.py
-
-```
-
-```
-
-```
