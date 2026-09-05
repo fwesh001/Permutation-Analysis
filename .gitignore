@@ -1,0 +1,8 @@
+/.venv
+/.vscode
+/export_module.py
+/higher_order_tester.py
+/permutation_tables_output.csv
+/piecewise_step_mapper.py
+/thesis_permutation_analysis.xlsx
+/~$thesis_permutation_analysis.xlsx
